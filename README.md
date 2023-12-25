@@ -10,5 +10,6 @@ Python:
 * Scikit-Learn
 
 R:
-* Tidiverse
+* Ggplot2
+* Tidiverse (ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, forecats)
   
