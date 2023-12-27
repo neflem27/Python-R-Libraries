@@ -15,3 +15,6 @@ Some of the key features of Seaborn include:
 5. **Time Series Plots:** Seaborn supports the visualization of time series data with functions like `tsplot` and `factorplot`.
 
 While Seaborn is built on top of Matplotlib, it provides a more concise and aesthetically pleasing syntax for creating complex visualizations. It is often used in conjunction with other data analysis and machine learning libraries in the Python ecosystem, such as NumPy, Pandas, and Scikit-learn.
+
+# Example Gallery
+![seaborn_gallery_cover](https://github.com/neflem27/Python-R-Libraries/assets/105387732/2c47f4e3-73d3-46ea-abc5-061d29a569b1)
